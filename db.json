@@ -1,0 +1,17 @@
+{
+  "opPatients": [
+    {
+      "regNo": "OP-001",
+      "name": "erfgb",
+      "age": "34",
+      "gender": "Female",
+      "phone": "234",
+      "address": "sdfvgbfx",
+      "department": "ENT",
+      "visitDate": "2026-09-06",
+      "id": "rTTvGRu9kQI"
+    }
+  ],
+  "ipPatients": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
