@@ -2,16 +2,54 @@
   "opPatients": [
     {
       "regNo": "OP-001",
-      "name": "erfgb",
-      "age": "34",
+      "name": "padma priya",
+      "age": "26",
       "gender": "Female",
-      "phone": "234",
-      "address": "sdfvgbfx",
+      "phone": "098765",
+      "address": "uloor",
       "department": "ENT",
-      "visitDate": "2026-09-06",
-      "id": "rTTvGRu9kQI"
+      "visitDate": "2026-09-07",
+      "id": 1
+    },
+    {
+      "regNo": "OP-003",
+      "name": "sdfg",
+      "age": "45",
+      "gender": "Male",
+      "phone": "234567",
+      "address": "cvbnjkjnhbvcx",
+      "department": "Cardiology",
+      "visitDate": "2026-09-07",
+      "id": 3
     }
   ],
-  "ipPatients": [],
+  "ipPatients": [
+    {
+      "regNo": "IP-002",
+      "name": "rahul",
+      "age": "17",
+      "gender": "Male",
+      "phone": "54",
+      "address": "44",
+      "ward": "General",
+      "roomNo": "12",
+      "admissionDate": "2026-09-07",
+      "reason": "44",
+      "id": 2
+    },
+    {
+      "regNo": "IP-003",
+      "name": "seg",
+      "age": "98",
+      "gender": "Male",
+      "phone": "087",
+      "address": "sv",
+      "ward": "General",
+      "roomNo": "32",
+      "admissionDate": "2026-09-07",
+      "reason": "fs",
+      "id": 3
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
